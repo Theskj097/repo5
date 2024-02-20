@@ -1,4 +1,2 @@
 # repo5
-for expr5
-just this
-for conf
+for exp4,5,6
